@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user name="Tom" age="39">
+        <company>
+            <title>Microsoft</title>
+        </company>
+    </user>
+    <user name="Bob" age="43">
+        <company>
+            <title>Google</title>
+        </company>
+    </user>
+</users>
