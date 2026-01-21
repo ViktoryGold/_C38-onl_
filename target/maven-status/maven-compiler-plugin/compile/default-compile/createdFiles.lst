@@ -1,6 +1,8 @@
 com\example\Main.class
-com\example\SaxParserDemo.class
 com\example\XmlDomParserExample.class
 com\example\StaxParserDemo.class
+com\example\XmlParserSwitch.class
+com\example\SaxParserDemo.class
 com\example\GsonExample.class
 com\example\Person.class
+com\example\XmlParserSwitch$1.class
